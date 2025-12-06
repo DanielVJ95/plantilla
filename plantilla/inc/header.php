@@ -9,7 +9,7 @@ $user = $_SESSION['user'];
   <div class="d-flex align-items-center gap-3">
     <img src="/plantilla/img/logoMaya.jpg" alt="logo" class="topbar-logo">
     <div class="brand-text">
-      <span class="brand-name">Unión Majomut</span>
+      <span class="brand-name">MAYABIO</span>
       <small class="brand-sub">SiCert-SCCM</small>
     </div>
     <button class="btn btn-sm btn-light d-lg-none ms-3" id="btnToggleSidebar" aria-label="Toggle menu">
@@ -26,3 +26,4 @@ $user = $_SESSION['user'];
     <a href="/plantilla/logout.php" class="btn btn-danger btn-sm rounded-pill"><i class="fa fa-sign-out-alt me-1"></i> Cerrar Sesión</a>
   </div>
 </nav>
+
